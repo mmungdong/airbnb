@@ -1,7 +1,5 @@
-import { current } from "@reduxjs/toolkit"
-
 const initialState = {
-  
+
 }
 
 function reducer(state = initialState, action) {
