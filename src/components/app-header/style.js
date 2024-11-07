@@ -1,15 +1,8 @@
 import styled from 'styled-components'  // install: npm install styled-components
 
 export const HeaderWrapper = styled.div`
-  .left {
-    color: blue;
-  }
-
-  .center {
-    color: orange;
-  }
-
-  .right {
-    color: green;
-  }
+  display: flex;
+  align-items: center;
+  height: 80px;
+  border-bottom: 1px solid #ccc;
 `
