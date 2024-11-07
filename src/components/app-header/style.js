@@ -1,6 +1,6 @@
 import styled from 'styled-components'  // install: npm install styled-components
 
-export const AppHeaderWrapper = styled.div`
+export const HeaderWrapper = styled.div`
   .left {
     color: blue;
   }
